@@ -1,6 +1,6 @@
 --[[
-SINNY POO
-Sin X- sin was here                                                                                                                                                                  
+L6ser ez
+l6ser was here                                                                                                                                                                  
 --]]
 
 
@@ -2107,7 +2107,7 @@ do
 	library:FormatWindows()
 end
 
-local Window = library:AddWindow("Sin X", {
+local Window = library:AddWindow("I love you!!!", {
     main_color = Color3.fromRGB(10, 10, 10),
     min_size = Vector2.new(450, 500),
     toggle_key = Enum.KeyCode.RightShift,
